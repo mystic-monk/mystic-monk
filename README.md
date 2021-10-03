@@ -80,12 +80,12 @@
 
 </details>
 
-<details>
+<!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
 
   <img align="left" alt="mystic-Monk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mystic-monk&show_icons=true&hide_border=true&theme=radical" />
 
-</details>
+<!-- </details> -->
 
 [website]: https://linkedin.com/in/arya-ankush
 [twitter]: https://twitter.com/ankush_arya26
