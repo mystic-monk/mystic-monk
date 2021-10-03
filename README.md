@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to photography and play keyboard
 
 ### Connect with me:
-
+[<img align="left" alt="https://www.linkedin.com/in/arya-ankush/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mystic-Monk | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />][email]
 [<img align="left" alt="mystic-Monk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mystic-Monk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
