@@ -1,6 +1,6 @@
 ### Hey, I'm Ankush - aka [mystic-monk][website] 👋
 
-[![Website](https://img.shields.io/website?label=mystic-monk.com&style=for-the-badge&url=https%3A%2F%2Fmystic-monk.com)](https://www.linkedin.com/in/arya-ankush)
+[![Website](https://img.shields.io/website?label=linkedin.com.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com.com)](https://www.linkedin.com/in/arya-ankush)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ankush_arya26?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fankush_arya26&screen_name=ankush_arya26)
  
 ## I'm a Discoverer, Thinker, Developer, and Teacher!!
