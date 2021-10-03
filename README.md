@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 My Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love photography and learning keyboard
+- ⚡ Fun fact: I love photography and I am learning keyboard
 
 ### Connect with me:
 ---
