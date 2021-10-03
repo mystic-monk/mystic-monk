@@ -11,14 +11,13 @@
 - ⚡ Fun fact: I love photography and learning keyboard
 
 ### Connect with me:
+---
 [<img align="left" alt="https://www.linkedin.com/in/arya-ankush/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mystic-Monk | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />][email]
 [<img align="left" alt="mystic-Monk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mystic-Monk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-<br />
-
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -77,7 +76,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mystic-Monk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mystic-monk&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="mystic-Monk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mystic-monk&show_icons=true&hide_border=flase&theme=radical" />
 
 </details>
 
